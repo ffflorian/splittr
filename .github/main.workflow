@@ -7,7 +7,7 @@ workflow "Build and lint" {
 }
 
 action "Don't skip CI" {
-  uses = "ffflorian/actions/skip_ci_check@master"
+  uses = "ffflorian/actions/skip-ci-check@master"
 }
 
 action "Install dependencies" {
