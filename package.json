@@ -3,7 +3,7 @@
   "dependencies": {},
   "description": "Split bills with friends.",
   "devDependencies": {
-    "@ffflorian/prettier-config": "0.0.3",
+    "@ffflorian/prettier-config": "0.0.4",
     "@ffflorian/tslint-config": "0.2.1",
     "@types/node": "~12",
     "husky": "2.3.0",
