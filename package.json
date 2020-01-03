@@ -4,7 +4,7 @@
   "description": "Split bills with friends.",
   "devDependencies": {
     "@ffflorian/prettier-config": "0.0.6",
-    "@ffflorian/tslint-config": "0.7.0",
+    "@ffflorian/tslint-config": "0.7.1",
     "@types/node": "~12",
     "husky": "3.1.0",
     "lint-staged": "9.5.0",
